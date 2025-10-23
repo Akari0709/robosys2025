@@ -1,2 +1,6 @@
 # robosys2025
 ロボットシステム工学課題
+このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および利用が許可されます。
+このパッケージのコードは、下記のスライドのものを本人の許可を得て自身の著作としたものです。
+   https://github.com/ryuichiueda/slides_marp/tree/master/prob_robotics_2025
+© 2025 Ryuichi Ueda
